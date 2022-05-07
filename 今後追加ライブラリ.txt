@@ -1,0 +1,8 @@
+yarn add styled-components
+yarn add -D babel-plugin-styled-components
+yarn add react-slick
+npm install slick-carousel --save
+yarn add react-hook-form
+yarn add --dev prisma
+yarn add @mui/icons-material
+yarn add @mui/material @emotion/react @emotion/styled
